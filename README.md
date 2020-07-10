@@ -3,11 +3,17 @@
 ### My name is Samuel Formigheri. I am a Web Developer from Brazil.
 
 
-🔭 I’m currently working with C# Asp.net
+🔭 I’m currently working with...
 
-📫 You can reach me: samuel.formigheri@hotmail.com
+C# Asp.net
 
-⚡ For more information about me...
+📫 You can reach me...
+
+samuel.formigheri@hotmail.com
+
+⚡ For more information about me... 
+
+<a href="https://www.linkedin.com/in/samuel-formigheri-573047128/"> Linkedin </a>
 
 <!--
 **SamuelFormigheri/SamuelFormigheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
