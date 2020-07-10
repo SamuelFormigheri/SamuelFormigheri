@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-### My name is Samuel Formigheri. I am a Web Developer from Brasil.
+### My name is Samuel Formigheri. I am a Web Developer from Brazil.
 
 
 🔭 I’m currently working with C# Asp.net
