@@ -5,9 +5,11 @@
 
 🔭 I’m currently working with C# Asp.net
 
-📫 How to reach me: samuel.formigheri@hotmail.com
+📫 You can reach me: samuel.formigheri@hotmail.com
 
-⚡ For more information about me, check out my <a href = "https://www.linkedin.com/in/samuel-formigheri-573047128/">Linkedin</a>.
+⚡ For more information about me...
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-formigheri-573047128/)](https://www.linkedin.com/in/rebeccamanzi/)
 
 <!--
 **SamuelFormigheri/SamuelFormigheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
