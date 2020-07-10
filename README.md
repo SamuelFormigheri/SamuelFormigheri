@@ -2,7 +2,7 @@
 
 ### My name is Samuel Formigheri. 
 
-### ✨ I am a Web Developer from Brazil.
+### I am a ✨ Web Developer from Brazil ✨. 
 
 
 🔭 I’m currently working with...
