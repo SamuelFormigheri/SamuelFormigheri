@@ -7,7 +7,7 @@
 
 🔭 I’m currently working with...
 
-C# Asp.net
+C# .Net
 
 📫 You can reach me...
 
