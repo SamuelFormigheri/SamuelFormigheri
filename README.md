@@ -2,12 +2,12 @@
 
 ### My name is Samuel Formigheri. 
 
-### I am a ✨ Web Developer from Brazil ✨. 
+### I am a ✨ Full Stack Web Developer from Brazil ✨. 
 
 
 🔭 I’m currently working with...
 
-C# .Net
+.Net Core and React
 
 📫 You can reach me...
 
