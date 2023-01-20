@@ -7,7 +7,7 @@
 
 🔭 I’m currently working with...
 
-.Net Core and React
+.Net and React
 
 📫 You can reach me...
 
