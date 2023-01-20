@@ -122,7 +122,7 @@
             <div class="card-container">
                 <div class="img-full-container">
                     <div class="img-container">
-                        <img src="imgs/cat.jpg" alt="Profile Picture" />
+                        <img src="https://raw.githubusercontent.com/SamuelFormigheri/SamuelFormigheri/master/imgs/cat.jpg" alt="Profile Picture" />
                          <a class="img-credits-link"
                             href="https://www.freepik.com/free-vector/expression-emotion-concept-set-cat-character-diffetent-animal-emotions_18779007.htm">Image
                             by jcomp on Freepik
@@ -144,8 +144,8 @@
                         I’m currently working with <strong>.Net</strong> and <strong>React</strong>. <br />
                     </span>
                     <div class="tech-imgs">
-                        <img src="imgs/react.png" alt="React" width="48px" />
-                        <img src="imgs/dotnet.png" alt=". Net" width="48px" />
+                        <img src="https://raw.githubusercontent.com/SamuelFormigheri/SamuelFormigheri/master/imgs/react.png" alt="React" width="48px" />
+                        <img src="https://raw.githubusercontent.com/SamuelFormigheri/SamuelFormigheri/master/imgs/dotnet.png" alt=". Net" width="48px" />
                     </div>
                     <span> ⚡ For more information about me...</span>
                     <button class="email-button">
@@ -154,7 +154,7 @@
                 </main>
                 <a href="https://www.linkedin.com/in/samuel-formigheri-573047128/" target="_blank"
                     rel="noopener noreferrer">
-                    <img src="imgs/linkedin.png" alt="Linkedin Icon" />
+                    <img src="https://raw.githubusercontent.com/SamuelFormigheri/SamuelFormigheri/master/imgs/linkedin.png" alt="Linkedin Icon" />
                 </a>
             </div>
         </div>
